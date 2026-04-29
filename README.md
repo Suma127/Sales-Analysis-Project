@@ -35,3 +35,5 @@ This project demonstrates end-to-end data analysis from data cleaning to visuali
 
 # Executive Summary
 - <img width="1439" height="761" alt="image" src="https://github.com/user-attachments/assets/4c42e51a-c81b-4a86-b004-15a2c4950ecb" />
+# Author
+Suma K
